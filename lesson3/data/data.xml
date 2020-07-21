@@ -1,0 +1,23 @@
+<users>
+    <user>
+        <first_name attr="qwe">Ivan</first_name>
+        <last_name>Ivanov</last_name>
+        <email>ivanov@mail.ru</email>
+        <city>Moscow</city>>
+        <zip_code>12345</zip_code>
+    </user>
+    <user>
+        <first_name>Artem</first_name>
+        <last_name>Efimov</last_name>
+        <email>test@ya.ru</email>
+        <city>Tver</city>>
+        <zip_code>234564</zip_code>
+    </user>
+    <user>
+        <first_name>Maria</first_name>
+        <last_name>Bug</last_name>
+        <email>test100500@mail.ru</email>
+        <city>Sochi</city>>
+        <zip_code>23537</zip_code>
+    </user>
+</users>
