@@ -1,5 +1,0 @@
-python_lambda
-python_arrays
-python_iterators
-python_json
-python_functions

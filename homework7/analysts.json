@@ -1,0 +1,24 @@
+Общее количество выполненных запросов - 1000
+Количество запросов по типу: GET - 963
+Количество запросов по типу: POST -  36
+топ 10 запросов, которые завершились ошибкой со стороны сервера:
+IP адрес - 172.18.0.1 - - [02/Nov/2020:10:26:11 +0000] "GET /catalog/view/javascript/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 77160
+ , сделаны запросов - 1
+IP адрес - 172.18.0.1 - - [02/Nov/2020:10:26:12 +0000] "GET /image/catalog/cart.png HTTP/1.1" 200 421
+ , сделаны запросов - 1
+IP адрес - 172.18.0.1 - - [02/Nov/2020:10:26:12 +0000] "POST /index.php?route=common/currency/currency HTTP/1.1" 302 -
+ , сделаны запросов - 1
+IP адрес - 172.18.0.1 - - [02/Nov/2020:10:26:12 +0000] "GET /index.php?route=common/home HTTP/1.1" 200 3938
+ , сделаны запросов - 1
+IP адрес - 172.18.0.1 - - [02/Nov/2020:10:43:18 +0000] "GET / HTTP/1.1" 200 3948
+ , сделаны запросов - 1
+IP адрес - 172.18.0.1 - - [02/Nov/2020:10:43:40 +0000] "GET / HTTP/1.1" 200 3925
+ , сделаны запросов - 1
+IP адрес - 172.18.0.1 - - [02/Nov/2020:10:43:41 +0000] "GET /catalog/view/javascript/jquery/jquery-2.1.1.min.js HTTP/1.1" 200 29497
+ , сделаны запросов - 1
+IP адрес - 172.18.0.1 - - [02/Nov/2020:10:43:41 +0000] "GET /catalog/view/javascript/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 9745
+ , сделаны запросов - 1
+IP адрес - 172.18.0.1 - - [02/Nov/2020:10:43:41 +0000] "GET /catalog/view/theme/default/stylesheet/stylesheet.css HTTP/1.1" 200 3437
+ , сделаны запросов - 1
+IP адрес - 172.18.0.1 - - [02/Nov/2020:10:43:41 +0000] "GET /catalog/view/javascript/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 7053
+ , сделаны запросов - 1

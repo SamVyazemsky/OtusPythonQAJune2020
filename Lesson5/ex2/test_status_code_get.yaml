@@ -1,6 +1,0 @@
-# test_multiplication.yaml
-  - !!python/tuple [200,200]
-  - !!python/tuple [300,300]
-  - !!python/tuple [400,400]
-  - !!python/tuple [500,500]
-  - !!python/tuple [301,200]
