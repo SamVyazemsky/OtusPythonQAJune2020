@@ -1,0 +1,1 @@
+C:/Users/kplyashechnik/Desktop/allure/bin/allure.bat serve allure-report
