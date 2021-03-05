@@ -1,7 +1,0 @@
-# test_multiplication.yaml
-  - !!python/tuple [1,2]
-  - !!python/tuple [1,3]
-  - !!python/tuple [1,5]
-  - !!python/tuple [2,4]
-  - !!python/tuple [3,4]
-  - !!python/tuple [5,4]

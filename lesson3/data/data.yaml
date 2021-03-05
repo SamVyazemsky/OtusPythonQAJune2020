@@ -1,6 +1,0 @@
-- db:
-  connection_string: postgres://test:test@localhost:5432/test?sslmode=disable
-- api:
-  url: http://ya.ru
-  user: test
-  password: test
